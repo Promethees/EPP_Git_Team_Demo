@@ -7,9 +7,9 @@ All statements starts as "Code B" in this file
 1. Code B
 2. Code Boo
 3. Code B
-4. Code B
+4. Code Boo
 5. Code B
 6. Code Boo
 7. Code B
 8. Code B
-9. Code B
+9. Code Boo
