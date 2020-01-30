@@ -4,16 +4,18 @@ Just to simulate content in a programming source code
 All statements starts as "Code A" in this file
 ********************/
 
-1. Code A
+1. Code D+
 X. Code A
 3. Code A
-X. Code A
 Quang Hung van tuoi lon thoi 
 X. Code A
+X. Code D+
 X. Code A
 &&&&&&Dang Cong San Viet Nam muon nam, anh sang soi duong dua ta vao chien thang&&&&&&
 
 7. Code A
 #. Code A
 9. Code A
-Hahaha
+
+China toang roi bu em a!
+Hahahihi Lin do gat :))
