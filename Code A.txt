@@ -8,8 +8,11 @@ All statements starts as "Code A" in this file
 X. Code A
 3. Code A
 X. Code A
+Quang Hung van tuoi lon thoi 
 X. Code A
 X. Code A
+&&&&&&Dang Cong San Viet Nam muon nam, anh sang soi duong dua ta vao chien thang&&&&&&
+
 7. Code A
 #. Code A
 9. Code A
